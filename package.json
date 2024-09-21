@@ -2,10 +2,10 @@
   "name": "JATE",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server/server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
-    "start": "npm run build && cd server && node server.js",
+    "start": "cd server && node server.js",
     "server": "cd server && npm run server",
     "build": "cd client && npm install && npm run build",
     "install": "cd client && npm install && cd ../server && npm install",
@@ -22,5 +22,8 @@
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4",
     "webpack-cli": "^5.1.4"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
