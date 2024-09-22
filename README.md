@@ -41,36 +41,36 @@ C19 PWA Text Editor is a Progressive Web Application (PWA) that runs in the brow
 
 You can view the live application here: [C19 PWA Text Editor on Render](https://c19-pwa-text-editor-9pva.onrender.com)
 
-Here are some examples of the C19 PWA Text Editor:
+Here are some visual examples of the C19 PWA Text Editor in action:
 
 ### Application Interface
 
-![JATE Interface](./images/desktop-JATE.png)
+![JATE Interface](./images/desktop%20JATE.png)
 *The main interface of the JATE text editor.*
 
 ### IndexedDB Storage
 
-![IndexedDB Storage](./images/jate-indexedDB.png)
+![IndexedDB Storage](./images/jate%20indexedDB.png)
 *Demonstration of content stored in IndexedDB for offline use.*
 
 ### PWA Installation
 
-![PWA Installation](./images/PWA-JATE-install.png)
+![PWA Installation](./images/PWA%20JATE%20Install.png)
 *Installing JATE as a Progressive Web App.*
 
 ### Service Worker
 
-![Service Worker](./images/jate-service-worker.png)
+![Service Worker](./images/jate%20service%20worker.png)
 *Active service worker for offline functionality.*
 
 ### Web App Manifest
 
-![Web App Manifest](./images/jate-manifest.png)
+![Web App Manifest](./images/jate%20manifest.png)
 *The web app manifest for JATE.*
 
 ### Text Editor in Action
 
-![Text Editor Usage](./images/Open-with-jate-text.png)
+![Text Editor Usage](./images/Open%20with%20Jate%20text.png)
 *Using JATE to edit text with syntax highlighting.*
 
 ## Technologies Used
