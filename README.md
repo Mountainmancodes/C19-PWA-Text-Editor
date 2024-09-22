@@ -41,7 +41,7 @@ C19 PWA Text Editor is a Progressive Web Application (PWA) that runs in the brow
 
 You can view the live application here: [C19 PWA Text Editor on Render](https://c19-pwa-text-editor-9pva.onrender.com)
 
-Here are some visual examples of the C19 PWA Text Editor in action:
+Here are some examples of the C19 PWA Text Editor in action:
 
 ### Application Interface
 
